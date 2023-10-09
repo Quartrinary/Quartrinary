@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quartrinary
 - 👀 I’m interested in programming
-- 📫 Instagram -> py._______init_______
+- 📫 Instagram -> py._________init_________
 
 <!---
 Quartrinary/Quartrinary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
